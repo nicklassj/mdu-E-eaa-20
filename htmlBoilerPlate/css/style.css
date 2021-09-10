@@ -1,0 +1,112 @@
+
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=ZCOOL+KuaiLe&display=swap');
+
+
+div
+{
+  background-image: url('.https://www.hubspot.com/hubfs/Smiling%20Leo%20Perfect%20GIF.gif.');
+}
+
+
+/**
+ * fil: css/style.css
+ **/
+/* Variabler: genbruges og gør designvalg enkle */
+:root {
+  /* farver */
+  --blue: #374cc4;
+  --white: #ffffff;
+
+
+
+/* navigationsfarven */
+--navfarve: #668c54;
+
+  /* fonte */
+
+
+/* bruges sådan */
+}
+
+/* Her bruges en variabel: --blue */
+body {
+  background-color: var(--blue);
+  font-family: 'ZCOOL KuaiLe', cursive;
+
+
+}
+
+
+h1,h2,h3,h4, h5 {
+
+    font-family: "font-family: 'ZCOOL KuaiLe', cursive;"
+    color: var(--white);
+}
+
+img  {
+  float: right;
+}
+
+}
+
+/* Layout */
+
+/* Typografi */
+h2 {
+  border-bottom: 2px solid var(--blue);
+  color:var(--white);
+  background-color: var()
+}
+
+{
+  color: orange;
+text-decoration: none;}
+
+ul {
+  list-style-type: none; /* fjerner bullets ved lister*/
+
+}
+
+
+nav ul li{
+  display:inline;
+}
+
+
+nav,
+h2 {
+background-color: var(--navfarve);
+color: var(--white);
+text-align: center;
+padding top: 32px;
+padding-bottom: 32px;
+}
+
+/*textbredde */
+h2, p {
+  witch: 400px;
+}
+
+p
+{
+  margin-top: 37px;}
+
+  /* wrap går rundt alle elementer i dette ex */
+  #wrap { width:655px;
+  margin: auto; /* centrer alt! */
+ }
+
+ /*gallriet styles */
+ figure {
+   height: 200px;
+   width: 200px;
+   overflow: auto;
+
+ }
+
+ figure img {
+   max-witdth: 100%;
+ }
